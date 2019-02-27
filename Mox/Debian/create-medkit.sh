@@ -4,7 +4,7 @@ HOSTNAME="mox"
 PASSWORD="mox"
 
 BUILDROOT=`pwd`
-ROOTDIR="$BUILDROOT/root"
+ROOTDIR="/data/debian/root"
 
 mkdir $ROOTDIR
 
@@ -58,6 +58,12 @@ sed -ir 's/^PermitRootLogin prohibit-password$/PermitRootLogin yes/' $ROOTDIR/et
 rm $ROOTDIR/usr/bin/qemu-aarch64-static
 
 # create package
-ll
+cd $ROOTDIR
+touch ../mox-medkit.tar.gz
+sudo tar zcf ../mox-medkit.tar.gz *
+cd $BUILDROOT
+d=`date "+%Y%m%d"`
+mv mox-medkit.tar.gz mox-medkit-${d}.tar.gz
+md5sum mox-medkit-${d}.tar.gz >mox-medkit-${d}.tar.gz.md5
 #sudo rm -rf $ROOTDIR
 
