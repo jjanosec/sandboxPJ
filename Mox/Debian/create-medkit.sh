@@ -49,7 +49,11 @@ EOF
 
 chroot $ROOTDIR <<ENDSCRIPT
 apt-get -y update
-apt-get -y install openssh-server
+apt-get -y install locales
+apt-get -y install net-tools nano linux-image-arm64 openssh-server
+apt-get -y upgrade
+apt-get clean
+apt-get autoclean
 ENDSCRIPT
 
 sed -ir 's/^PermitRootLogin prohibit-password$/PermitRootLogin yes/' $ROOTDIR/etc/ssh/sshd_config
