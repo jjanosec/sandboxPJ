@@ -1,0 +1,21 @@
+# TCL telemetry / analytics
+tclclouds.com
+tclclouds.net
+tclclouds.tv
+tclclouds.cn
+tclclouds.com.cn
+tclclouds.com.hk
+tclclouds.com.tw
+tclsmarttv.com
+tclsmarttv.cn
+tclsmarttv.net
+tclappstore.com
+tclappstore.net
+tclappstore.cn
+tclota.com
+tclota.net
+# TCL tracking / ads
+tcltracking.com
+tcltracking.net
+ad.tclclouds.com
+ads.tclsmarttv.com
