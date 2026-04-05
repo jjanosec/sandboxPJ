@@ -1,0 +1,10 @@
+# Sony telemetry
+sony.net
+sonyentertainmentnetwork.com
+sonymobile.com
+sonymobile.net
+
+# Sony tracking / analytics
+api.sonyentertainmentnetwork.com
+metrics.sony.com
+tracking.sony.com

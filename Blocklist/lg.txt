@@ -1,0 +1,22 @@
+# LG ACR (Automatic Content Recognition)
+lgtvsdp.com
+lgtvapi.com
+lgtvapp.com
+lgtvcommon.com
+
+# LG ads
+ngfts.lge.com
+us.ad.lgsmartad.com
+eu.ad.lgsmartad.com
+lgsmartad.com
+
+# LG analytics
+lgtvcommon.com
+lgsmartplatform.com
+lgappstv.com
+lgappstv.net
+lgappstv.com.cn
+
+# LG tracking
+lgmetrics.com
+lgsmarttracking.com

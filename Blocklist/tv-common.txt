@@ -1,0 +1,9 @@
+# Common Smart TV ad/analytics networks
+smartclip.net
+smartclip.com
+smartadserver.com
+doubleverify.com
+conviva.com
+scorecardresearch.com
+criteo.com
+criteo.net

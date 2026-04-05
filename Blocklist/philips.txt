@@ -1,0 +1,13 @@
+# Philips telemetry
+philipscloud.com
+philipscloud.net
+philipscloud.tv
+
+# Philips tracking
+tracking.tpvision.com
+analytics.tpvision.com
+tpvision.com
+
+# Philips ads
+ads.tpvision.com
+adserver.tpvision.com
