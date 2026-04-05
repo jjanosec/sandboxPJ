@@ -6,16 +6,29 @@ tclclouds.cn
 tclclouds.com.cn
 tclclouds.com.hk
 tclclouds.com.tw
+
+# TCL smart TV services (non-essential)
 tclsmarttv.com
 tclsmarttv.cn
 tclsmarttv.net
+
+# TCL app store (non-essential)
 tclappstore.com
 tclappstore.net
 tclappstore.cn
-tclota.com
-tclota.net
-# TCL tracking / ads
+
+# TCL ads / tracking
 tcltracking.com
 tcltracking.net
-ad.tclclouds.com
 ads.tclsmarttv.com
+ad.tclclouds.com
+
+# Additional telemetry endpoints
+log.tclclouds.com
+log.tclsmarttv.com
+metrics.tclclouds.com
+metrics.tclsmarttv.com
+
+# Optional (blocks OTA updates)
+# tclota.com
+# tclota.net
