@@ -1,0 +1,29 @@
+# Samsung ACR (content tracking)
+samsungacr.com
+samsungacr.net
+log-config.samsungacr.com
+
+# Samsung ads
+samsungads.com
+samsungadhub.com
+samsungtvads.com
+ads.samsung.com
+config.samsungads.com
+
+# Samsung analytics
+samsungrs.com
+samsungcloudsolution.com
+samsungcloudsolution.net
+analytics.samsungcloudsolution.com
+metrics.samsungcloudsolution.com
+
+# Samsung IoT tracking
+samsungiotcloud.com
+samsungiotcloud.net
+
+# SmartHub ad endpoints
+gpm.samsungqbe.com
+
+# Optional (may affect some regional services)
+samsungcloudcdn.com
+samsungcloudcdn.net
